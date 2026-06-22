@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ia-aplicada-negocios",
+    "tipo": "Major",
+    "titulo": "IA aplicada a los Negocios",
+    "descripcion": "Aplica IA en tu empresa con visión estratégica, herramientas reales y foco en impacto.",
+    "duracion": "6 meses",
+    "modalidad": "Virtual",
+    "titulacion": "GW + ADEN IBS",
+    "perfil_objetivo": "Profesionales que quieren liderar un proyecto IA en su empresa",
+    "plan_resumido": "Fundamentos · Casos por industria · Diseño · Implementación · Capstone",
+    "inversion": "Hasta 6 cuotas",
+    "plan_estudios": [
+      { "modulo": 1, "nombre": "Fundamentos de IA", "semanas": "4 semanas" },
+      { "modulo": 2, "nombre": "Casos de uso por industria", "semanas": "4 semanas" },
+      { "modulo": 3, "nombre": "Diseño de proyecto IA", "semanas": "6 semanas" },
+      { "modulo": 4, "nombre": "Implementación y ROI", "semanas": "6 semanas" },
+      { "modulo": 5, "nombre": "Capstone aplicado", "semanas": "4 semanas", "isStar": true }
+    ]
+  },
+  {
+    "id": "chief-ai-officer",
+    "tipo": "Programa Especializado",
+    "titulo": "Chief AI Officer",
+    "descripcion": "Lidera la estrategia de IA con visión ética, datos inteligentes y soluciones escalables.",
+    "duracion": "3 meses",
+    "modalidad": "Virtual",
+    "titulacion": "GW + ADEN IBS",
+    "perfil_objetivo": "Ejecutivos C-level o aspirantes al rol de Chief AI Officer",
+    "plan_resumido": "Rol del CAIO · Estrategia · Gobernanza · KPIs · Roadmap ejecutivo",
+    "inversion": "Hasta 3 cuotas",
+    "plan_estudios": [
+      { "modulo": 1, "nombre": "El Rol Estratégico del CAIO", "semanas": "3 semanas" },
+      { "modulo": 2, "nombre": "Gobernanza y Ética de Datos", "semanas": "3 semanas" }
+    ]
+  },
+  {
+    "id": "inteligencia-artificial-aplicada-negocios",
+    "tipo": "Maestría",
+    "titulo": "Inteligencia Artificial Aplicada a los Negocios ",
+    "descripcion": "Aplica IA en marketing, finanzas, operaciones y RRHH para transformar tu negocio.",
+    "duracion": "12 meses",
+    "modalidad": "Virtual",
+    "titulacion": "GW + ADEN IBS",
+    "perfil_objetivo": "Ejecutivos C-level o aspirantes al rol de Chief AI Officer",
+    "plan_resumido": "Rol del CAIO · Estrategia · Gobernanza · KPIs · Roadmap ejecutivo",
+    "inversion": "Hasta 3 cuotas",
+    "plan_estudios": [
+      { "modulo": 1, "nombre": "El Rol Estratégico del CAIO", "semanas": "3 semanas" },
+      { "modulo": 2, "nombre": "Gobernanza y Ética de Datos", "semanas": "3 semanas" }
+    ]
+  },
+  {
+    "id": "ia-aplicada-a-finanzas",
+    "tipo": "Programa Especializado",
+    "titulo": "IA Aplicada a Finanzas ",
+    "descripcion": "Automatiza, predice y mejora decisiones financieras con herramientas de IA reales.",
+    "duracion": "3 1/2 meses",
+    "modalidad": "Virtual",
+    "titulacion": "GW + ADEN IBS",
+    "perfil_objetivo": "Ejecutivos C-level o aspirantes al rol de Chief AI Officer",
+    "plan_resumido": "Rol del CAIO · Estrategia · Gobernanza · KPIs · Roadmap ejecutivo",
+    "inversion": "Hasta 3 cuotas",
+    "plan_estudios": [
+      { "modulo": 1, "nombre": "El Rol Estratégico del CAIO", "semanas": "3 semanas" },
+      { "modulo": 2, "nombre": "Gobernanza y Ética de Datos", "semanas": "3 semanas" }
+    ]
+  },
+  {
+    "id": "ia-aplicada-capital-humano",
+    "tipo": "Programa Especializado",
+    "titulo": "IA Aplicada a Capital Humano ",
+    "descripcion": "Optimiza atracción, desarrollo y fidelización del talento con soluciones de IA práctica.",
+    "duracion": "3 1/2 meses",
+    "modalidad": "Virtual",
+    "titulacion": "GW + ADEN IBS",
+    "perfil_objetivo": "Ejecutivos C-level o aspirantes al rol de Chief AI Officer",
+    "plan_resumido": "Rol del CAIO · Estrategia · Gobernanza · KPIs · Roadmap ejecutivo",
+    "inversion": "Hasta 3 cuotas",
+    "plan_estudios": [
+      { "modulo": 1, "nombre": "El Rol Estratégico del CAIO", "semanas": "3 semanas" },
+      { "modulo": 2, "nombre": "Gobernanza y Ética de Datos", "semanas": "3 semanas" }
+    ]
+  },
+  {
+    "id": "ia-aplicada-marketing",
+    "tipo": "Programa Especializado",
+    "titulo": "IA Aplicada a Marketing ",
+    "descripcion": "Optimiza campañas y crea contenido con IA: segmenta, predice y personaliza.",
+    "duracion": "3 1/2 meses",
+    "modalidad": "Virtual",
+    "titulacion": "GW + ADEN IBS",
+    "perfil_objetivo": "Ejecutivos C-level o aspirantes al rol de Chief AI Officer",
+    "plan_resumido": "Rol del CAIO · Estrategia · Gobernanza · KPIs · Roadmap ejecutivo",
+    "inversion": "Hasta 3 cuotas",
+    "plan_estudios": [
+      { "modulo": 1, "nombre": "El Rol Estratégico del CAIO", "semanas": "3 semanas" },
+      { "modulo": 2, "nombre": "Gobernanza y Ética de Datos", "semanas": "3 semanas" }
+    ]
+  }
+]

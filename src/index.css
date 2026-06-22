@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Lato', ui-sans-serif, system-ui, sans-serif;
+  --font-serif: 'Lato', ui-sans-serif, system-ui, sans-serif;
+  --font-mono: ui-monospace, 'Courier New', monospace;
+}
+
+/* Perspectiva 3D para el carrusel */
+.style-perspective {
+  perspective: 1200px;
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
